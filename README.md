@@ -49,6 +49,11 @@ Mapeo de celdas
 
 La actividad va de 3 archivos:
 
+[reporte html](A3.1_652911.html)
+
+[reporte ipynb](A3.1_652911.ipynb)
+
+[reporte A3.1_Khan.cvs](A3.1_Khan.csv)
 
 
 Archivos de salida (CSV):
