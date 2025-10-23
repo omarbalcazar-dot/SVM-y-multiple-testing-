@@ -55,5 +55,3 @@ La actividad va de 3 archivos:
 
 [reporte A3.1_Khan.cvs](A3.1_Khan.csv)
 
-
-Archivos de salida (CSV):
